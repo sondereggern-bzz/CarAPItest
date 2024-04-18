@@ -1,2 +1,3 @@
-# CarAPItest
-Creating an Api with Car-JSON
+# Simple-JS-DB
+A DB about Cars i made
+(WIP)
