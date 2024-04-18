@@ -29,8 +29,8 @@ const automodelle = [
     { id: 25, marke: "Bentley", modell: "silver shadow", baujahr: 1965, motor: "6.2L V8", leistung: 220 },
     { id: 26, marke: "Bentley", modell: "Continental GT", baujahr: 2003, motor: "6L W12", leistung: 560 },
     { id: 27, marke: "monteverdi", modell: "hai 450", baujahr: 1970, motor: "7L V8", leistung: 375 },
-    { id: 28, marke: "cadillac", modell: "eldorado", baujahr: 1970, motor: "8.2L V8", leistung: 400 },
-    { id: 29, marke: "cadillac", modell: "eldorado", baujahr: 1969, motor: "8.2L V8", leistung: 400 },
+    { id: 28, marke: "cadillac", modell: "eldorado", baujahr: 1970, motor: "8.2L V8", leistung: 180 },
+    { id: 29, marke: "cadillac", modell: "eldorado", baujahr: 1969, motor: "8.2L V8", leistung: 180 },
     { id: 30, marke: "lincoln", modell: "continental", baujahr: 1969, motor: "7.5L V8", leistung: 365 },
 ];
 
