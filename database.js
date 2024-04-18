@@ -1,5 +1,6 @@
 // datenbank.js
 
+
 const automodelle = [
     { id: 1, marke: "Audi", modell: "A7", baujahr: 2020, motor: "3L V6 TFSI", leistung: 340},
     { id: 2, marke: "Audi", modell: "A8", baujahr: 2021, motor: "4L V8 TFSI", leistung: 460},
@@ -31,8 +32,6 @@ const automodelle = [
     { id: 28, marke: "cadillac", modell: "eldorado", baujahr: 1970, motor: "8.2L V8", leistung: 400 },
     { id: 29, marke: "cadillac", modell: "eldorado", baujahr: 1969, motor: "8.2L V8", leistung: 400 },
     { id: 30, marke: "lincoln", modell: "continental", baujahr: 1969, motor: "7.5L V8", leistung: 365 },
-
-    // Weitere Automodelle hier
 ];
 
 module.exports = {
