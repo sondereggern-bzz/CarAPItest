@@ -29,7 +29,7 @@ const automodelle = [
         {
             id: 4,
             marke: 'Audi',
-            modell: 's5',
+            modell: 'S5',
             baujahr: 2022,
             motor: '3L V6 TFSI',
             leistung: 350
@@ -45,7 +45,7 @@ const automodelle = [
         {
             id: 6,
             marke: 'Bentley',
-            modell: 'silver shadow',
+            modell: 'Silver Shadow',
             baujahr: 1965,
             motor: '6.2L V8',
             leistung: 220
@@ -92,40 +92,40 @@ const automodelle = [
         },
         {
             id: 12,
-            marke: 'cadillac',
-            modell: 'eldorado',
+            marke: 'Cadillac',
+            modell: 'Eldorado',
             baujahr: 1970,
             motor: '8.2L V8',
             leistung: 180
         },
         {
             id: 13,
-            marke: 'cadillac',
-            modell: 'eldorado',
+            marke: 'Cadillac',
+            modell: 'Eldorado',
             baujahr: 1969,
             motor: '8.2L V8',
             leistung: 180
         },
         {
             id: 14,
-            marke: 'chevrolet',
-            modell: 'camaro',
+            marke: 'Chevrolet',
+            modell: 'Camaro',
             baujahr: 1969,
             motor: '7L V8',
             leistung: 375
         },
         {
             id: 15,
-            marke: 'chevrolet',
-            modell: 'camaro',
+            marke: 'Chevrolet',
+            modell: 'Camaro',
             baujahr: 1968,
             motor: '7L V8',
             leistung: 375
         },
         {
             id: 16,
-            marke: 'dodge',
-            modell: 'challenger',
+            marke: 'Dodge',
+            modell: 'Challenger',
             baujahr: 1970,
             motor: '7.2L V8',
             leistung: 375
@@ -133,7 +133,7 @@ const automodelle = [
         {
             id: 17,
             marke: 'Dodge',
-            modell: 'charger',
+            modell: 'Charger',
             baujahr: 1970,
             motor: '7.2L V8',
             leistung: 375
@@ -164,24 +164,24 @@ const automodelle = [
         },
         {
             id: 21,
-            marke: 'ford',
-            modell: 'mustang',
+            marke: 'Ford',
+            modell: 'Mustang',
             baujahr: 1970,
             motor: '7L V8',
             leistung: 375
         },
         {
             id: 22,
-            marke: 'ford',
-            modell: 'mustang',
+            marke: 'Ford',
+            modell: 'Mustang',
             baujahr: 1969,
             motor: '7L V8',
             leistung: 375
         },
         {
             id: 23,
-            marke: 'lincoln',
-            modell: 'continental',
+            marke: 'LiMcoln',
+            modell: 'Continental',
             baujahr: 1969,
             motor: '7.5L V8',
             leistung: 365
@@ -204,16 +204,16 @@ const automodelle = [
         },
         {
             id: 26,
-            marke: 'monteverdi',
-            modell: 'high speed 375',
+            marke: 'Monteverdi',
+            modell: 'High speed 375',
             baujahr: 1969,
             motor: '7L V8',
             leistung: 375
         },
         {
             id: 27,
-            marke: 'monteverdi',
-            modell: 'hai 450',
+            marke: 'Monteverdi',
+            modell: 'Hai 450',
             baujahr: 1970,
             motor: '7L V8',
             leistung: 375
@@ -241,6 +241,14 @@ const automodelle = [
             baujahr: 2021,
             motor: '2L i4 ',
             leistung: 250
+        },
+        {
+            id: 31,
+            marke: 'VW',
+            modell: 'Golf 2.0 TSI R DSG',
+            baujahr: 2021,
+            motor: '2L i4',
+            leistung: 320
         }
     ];
 
