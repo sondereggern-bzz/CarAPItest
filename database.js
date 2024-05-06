@@ -249,8 +249,44 @@ const automodelle = [
             baujahr: 2021,
             motor: '2L i4',
             leistung: 320
+        },
+        {
+            id: 32,
+            marke: 'Ford',
+            modell: 'Mustang GT',
+            baujahr: 2021,
+            motor: '5.0L V8',
+            leistung: 450
+        },
+
+        {
+            id: 33,
+            marke: 'Tesla',
+            modell: 'Model 3',
+            baujahr: 2021,
+            motor: 'Electric',
+            leistung: 325
+        },
+
+        {
+            id: 34,
+            marke: 'Chevrolet',
+            modell: 'Corvette Stingray',
+            baujahr: 2021,
+            motor: '6.2L V8',
+            leistung: 490
+        },
+
+        {
+            id: 35,
+            marke: 'Porsche',
+            modell: '911 Carrera',
+            baujahr: 2021,
+            motor: '3.0L Flat-6',
+            leistung: 379
         }
-    ];
+
+];
 
 module.exports = {
     automodelle
