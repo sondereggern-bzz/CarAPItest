@@ -245,6 +245,14 @@ const automodelle = [
         {
             id: 31,
             marke: 'VW',
+            modell: 'Karman Ghia',
+            baujahr: 1969,
+            motor: '1.6L i4',
+            leistung: 50
+        },
+        {
+            id: 32,
+            marke: 'VW',
             modell: 'Golf 2.0 TSI R DSG',
             baujahr: 2021,
             motor: '2L i4',
